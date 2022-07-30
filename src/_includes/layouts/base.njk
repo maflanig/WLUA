@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+    {% include "partials/head.html" %}
+    <body class="wlua-body">
+        {% include "partials/nav.html" %}
+        {% if image %}
+            <div class="top-img-cont"><img class="top-img" src="{{ image }}" alt="Washington Lacrosse Umpires Association"/></div>
+        {% endif %}
+        <main class="wlua-main">
+            {{ content | safe }}
+        </main>
+
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+        <script src="/js/main.js"></script>
+
+        {% include "partials/footer.html" %}
+    </body>
+
+</html>
