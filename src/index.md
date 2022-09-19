@@ -8,7 +8,7 @@ image: /img/header.jpg
 # Important Dates
 
 ## Mandatory Annual Meeting
-- Jan, 2022 Date TBD
+- Jan, 2023 Date TBD
 
 ## Adult Spring Training Classes
 - September 7, 2021
@@ -22,10 +22,10 @@ image: /img/header.jpg
 - March 6, 2022
 
 ## Start of NVYLL Season
-- March, 2022
+- March, 2023
 
 ## Start of HS Season
-- March, 2022
+- March, 2023
  
 
 
