@@ -8,7 +8,7 @@ image: /img/header.jpg
 # Important Dates
 
 ## Mandatory Annual Meeting
-- January 31, 2023 6-9pm, Location TBD
+- January 31, 2023 6-9pm, The St. James
 <br><br>
 
 ## Adult Spring Training Classes
