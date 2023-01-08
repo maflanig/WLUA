@@ -2,5 +2,5 @@
 tags: nav
 title: Rules
 layout: layouts/rules
-image: /img/faceoff.jpg
+image: /img/draw-pam.png
 ---
