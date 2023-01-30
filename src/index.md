@@ -26,15 +26,15 @@ image: /img/header-two.jpg
 - March 19, 2023 (snow date)
 <br><BR>
 
-## NVYLL Season
-- Opening weekend: March 25/26, 2023
-- May 13/14, 2023 Last regular-season game for girls G34 - G78
-- May 20/21, 2023 Playoffs for girls G34 - G78 <br>
-  <span style="padding-left:8em">   Last regular season games for girls Gk2 </span>
+## NVYLL 2023 Season
+- March 25/26 - Opening weekend
+- May 13/14 - Last regular-season games for G34 - G78
+- May 20/21 - Playoffs for G34 - G78 <br>
+  <span style="padding-left:6em">   Last regular-season games for Gk2 </span>
 <br><BR>
 
-## Start of HS Season
-- March, 2023
+## Start of 2023 HS Season
+- March 
  
 
 
