@@ -2,7 +2,7 @@
 layout: layouts/training
 tags: nav
 title: Training
-image: /img/header-two.jpg
+image: /img/umpires-Emily-Jen-Amy-Kimberly-Deb.jpg
 ---
 # Training Requirements
 - Be a USA Lacrosse member

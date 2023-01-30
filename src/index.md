@@ -2,7 +2,7 @@
 tags:  
 title: Home
 layout: layouts/index
-image: /img/header.jpg
+image: /img/header-two.jpg
 ---
 
 # Important Dates
@@ -21,12 +21,16 @@ image: /img/header.jpg
 - Saturday, February 4, 2023
 <br><BR>
 
-## Youth Spring Training Classes
-- TBA
+## Youth Spring Field Training
+- March 12, 2023
+- March 19, 2023 (snow date)
 <br><BR>
 
-## Start of NVYLL Season
-- March, 2023
+## NVYLL Season
+- Opening weekend: March 25/26, 2023
+- May 13/14, 2023 Last regular-season game for girls G34 - G78
+- May 20/21, 2023 Playoffs for girls G34 - G78 <br>
+  <span style="padding-left:8em">   Last regular season games for girls Gk2 </span>
 <br><BR>
 
 ## Start of HS Season
