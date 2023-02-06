@@ -14,5 +14,3 @@ image: /img/umpires-Emily-Jen-Amy-Kimberly-Deb.jpg
 - Be a USA Lacrosse member
 - Pass USA Lacrosse annually
 - Attend pre-season scrimages
-
-[Under 18?](/youth)

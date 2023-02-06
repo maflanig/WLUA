@@ -192,12 +192,13 @@ iframe {
 }
 
 img {
+  object-fit: cover;
   width: 100%;
-  height: auto;
+  max-height: 500px;
 }
 
 .top-img-cont {
-  max-height: 400px;
+  max-height: 500px;
   overflow: hidden;
 }
 
@@ -339,7 +340,6 @@ li::before {
 .about-bio {
   text-align: justify;
   text-justify: inter-word;
-  max-width: 600px;
 }
 
 .about-contact {
@@ -365,6 +365,15 @@ li::before {
   padding: 0;
 }
 
+.awards{
+  padding: 2rem;
+}
+
+.awards-intro {
+  text-align: justify;
+  text-justify: inter-word;
+} 
+
 .awards h1 {
   font-size: 3rem;
 }
@@ -387,7 +396,6 @@ li::before {
 }
 
 .awards p {
-  max-width: 600px;
   margin-bottom: .5rem;
 }
 
@@ -400,10 +408,10 @@ li::before {
 .rules-lists {
   display: -ms-grid;
   display: grid;
-  -ms-grid-rows: 60% 40%;
-      grid-template-rows: 60% 40%;
-  -ms-grid-columns: 32% 68%;
-      grid-template-columns: 32% 68%;
+  -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: 1fr 250px;
+      grid-template-rows: 1fr 250px;
   padding: 2rem 4rem;
   gap: 40px;
 }

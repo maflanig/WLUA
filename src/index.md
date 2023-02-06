@@ -21,9 +21,8 @@ image: /img/header-two.jpg
 - Saturday, February 4, 2023
 <br><BR>
 
-## Youth Spring Field Training
-- March 12, 2023
-- March 19, 2023 (snow date)
+## Start of 2023 HS Season
+- March 13
 <br><BR>
 
 ## NVYLL 2023 Season
@@ -33,8 +32,6 @@ image: /img/header-two.jpg
   <span style="padding-left:6em">   Last regular-season games for Gk2 </span>
 <br><BR>
 
-## Start of 2023 HS Season
-- March 
  
 
 
