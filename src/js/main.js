@@ -94,3 +94,4 @@ thumbnailContainer.querySelectorAll('div').forEach(el => {
 });
 
 slideGallery.addEventListener('scroll', e => highlightThumbnail());
+highlightThumbnail();
