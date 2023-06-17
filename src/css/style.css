@@ -546,7 +546,7 @@ footer {
 
 .thumbnails {
   position: absolute;
-  bottom: 8px;
+  top: -20px;  /* was bottom: 8px */
   display: flex;
   flex-direction: row;
   gap: 6px;
@@ -571,7 +571,7 @@ footer {
   gap: 1rem;
   width: 540px;
   padding: 0 0.25rem;
-  height: 540px;  /* was 720 */
+  height: 550px;  /* was 720 */
   overflow-y: auto;
   overscroll-behavior-x: contain;
   scroll-snap-type: x mandatory;
