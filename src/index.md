@@ -8,9 +8,12 @@ image: /img/header-two.jpg
 # Important Dates
 
 ## Mandatory Annual Meeting
-- TBA
+- Monday January 29, 2024
+- 6:00pm - 9:00pm
+- The St. James
 <br><br>
 
+<!--
 ## Adult Spring Training Classes
 - TBA
 <br><BR>
@@ -18,9 +21,10 @@ image: /img/header-two.jpg
 ## Field Training at St. James
 - TBA
 <br><BR>
-
+-->
 ## Start of 2024 HS Season
-- TBA
+- Scrimmages: February 26 - March 9, 2024
+- Games:      March 11, 2024
 <br><BR>
 
 ## NVYLL 2024 Season
