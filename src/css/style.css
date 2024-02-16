@@ -427,6 +427,12 @@ li::before {
   padding: 0;
 }
 
+
+.rules-lists h2 {
+  font-size: 2rem;
+  margin-bottom: .5rem;
+}
+
 .rules-lists li {
   list-style: none;
   font-size: 1.5rem;
@@ -443,7 +449,7 @@ li::before {
 }
 
 .resources {
-  padding: 2rem 4rem;
+  padding: 2rem 4em;
 }
 
 @media only screen and (max-width: 768px) {
@@ -458,7 +464,7 @@ li::before {
 
 .resources h2 {
   font-size: 2rem;
-  margin-bottom: .75rem;
+  margin-bottom: .5rem;
 }
 
 .resources ul, .resources p {

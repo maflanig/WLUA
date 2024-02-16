@@ -4,3 +4,4 @@ title: Rules
 layout: layouts/rules
 image: /img/draw-pam.png
 ---
+# {{ title }}
