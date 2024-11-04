@@ -8,8 +8,8 @@ image: /img/header-two.jpg
 # Important Dates
 
 ## Mandatory Annual Meeting
-- Monday January 29, 2024
-- 6:00pm - 9:00pm
+- Monday January 28, 2025
+- 6:30pm - 9:30pm
 - The St. James
 <br><br>
 
@@ -22,15 +22,15 @@ image: /img/header-two.jpg
 - TBA
 <br><BR>
 -->
-## Start of 2024 HS Season
-- Scrimmages: February 26 - March 9, 2024
-- Games:      March 11, 2024
+## Start of 2025 HS Season
+- Scrimmages: February ?? - March ??, 2025
+- Games:      March ??, 2025
 <br><BR>
 
-## NVYLL 2024 Season
-- Mar 23/24 -> Opening weekend
-- May 18/19 -> Playoffs for G34 - G78 <br>
-  <span style="padding-left:6em">   Last regular-season games for Gk2 </span> 
+## NVYLL 2025 Season
+- Mar ??/?? -> Opening weekend
+- May ??/?? -> Playoffs for G34 - G78 <br>
+  <span style="padding-left:6em">  <p> Last regular-season games for Gk2 </p></span> 
   <!-- padding was 6em -->
 <br><BR>
 

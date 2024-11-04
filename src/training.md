@@ -8,7 +8,7 @@ image: /img/umpires-Emily-Jen-Amy-Kimberly-Deb.jpg
 - Be a USA Lacrosse member
 - Attend training classes
 - Pass USA Lacrosse annually
-- Attend field training dates for 2023 from [home](/) page
+- Attend field training dates for 2025 from [home](/) page
 
 # Annual Renewal Requirements
 - Be a USA Lacrosse member
