@@ -23,13 +23,13 @@ image: /img/header-two.jpg
 <br><BR>
 -->
 ## Start of 2025 HS Season
-- Scrimmages: February ?? - March ??, 2025
-- Games:      March ??, 2025
+- Scrimmages: March 1, 2025
+- Games:      March 17, 2025
 <br><BR>
 
 ## NVYLL 2025 Season
-- Mar ??/?? -> Opening weekend
-- May ??/?? -> Playoffs for G34 - G78 <br>
+- Mar 22/23 -> Opening weekend
+- May 17/18 -> Playoffs for G34 - G78 <br>
   <span style="padding-left:6em">  <p> Last regular-season games for Gk2 </p></span> 
   <!-- padding was 6em -->
 <br><BR>
