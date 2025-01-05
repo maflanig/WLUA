@@ -8,7 +8,7 @@ image: /img/header-two.jpg
 # Important Dates
 
 ## Mandatory Annual Meeting
-- Monday January 28, 2025
+- Tuesday January 28, 2025
 - 6:30pm - 9:30pm
 - The St. James
 <br><br>
